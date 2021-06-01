@@ -1,1 +1,2 @@
 Master File contents added in Master  Branch
+Editing master.txt on private branch by private 
